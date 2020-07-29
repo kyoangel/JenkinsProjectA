@@ -22,7 +22,7 @@ namespace JenkinsProjectA.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page. Test SCM 11:23";
 
             return View();
         }
